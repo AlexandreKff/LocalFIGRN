@@ -38,7 +38,7 @@ The codes are the following :
 A yaml file containing the exported conda environment called environment is available to install the same work environment. 
 Once the environment is set, the steps required for the installation of localMDI package must be followed. Those are available on https://github.com/asutera/Local-MDI-importance/tree/main.
 
-Once this is done, code is ready to be run. TFE_Dyngen.py however needs as argument the # of the dyngen dataset tested.
+Once this is done, code is ready to be run from the folder containing the codes. TFE_Dyngen.py however needs as argument the # of the dyngen dataset tested.
 
 
 
